@@ -1,10 +1,10 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://iambetmen.github.io
+url: https://iambetmen.github.io/
 title: ./iambetmen
 email: betmen@protonmail.ch
-author: &#1074;&#1108;&#1090;&#1084;&#1108;&#951;
+author: iambetmen
 description: My Experience
 paginate: 5
 google_analytics: 
