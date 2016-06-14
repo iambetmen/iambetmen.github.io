@@ -1,0 +1,6 @@
+---
+published: true
+title: Hello!
+layout: post
+---
+Hi! This is my second blog using jekyll! :)
